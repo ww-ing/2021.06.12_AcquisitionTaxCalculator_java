@@ -41,4 +41,4 @@
 <h2>조정대상지역</h2>
 <hr>
 <img width="798" alt="조정대상지역" src="https://user-images.githubusercontent.com/84225477/122682767-58835100-d236-11eb-94da-d29ca5233159.png">
-
+조정대상지역 보기 버튼 클릭 시 전국의 조정대상 지역을 보여주는 페이지를 띄움
