@@ -1,5 +1,4 @@
 <h1>부동산 취득세 계산기</h1>
-<hr>
 
 <br>
 <h3>프로젝트 개요</h3>
@@ -21,13 +20,11 @@
   
 <br><br>
 <h2>주택 계산</h2>
-<hr>
 <img width="799" alt="주택 계산" src="https://user-images.githubusercontent.com/84225477/122682972-579eef00-d237-11eb-9cac-9c4b62eba951.png">
 
 
 <br><br>
 <h2>오피스텔 계산</h2>
-<hr>
 <img width="799" alt="오피스텔 계산" src="https://user-images.githubusercontent.com/84225477/122682994-700f0980-d237-11eb-96e1-7b49145d3106.png">
 
 
