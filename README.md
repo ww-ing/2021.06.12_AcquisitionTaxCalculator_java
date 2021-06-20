@@ -3,7 +3,7 @@
 
 <br>
 <h3>프로젝트 개요</h3>
-주택, 오피스텔, 그 외 의 부동산 매매 시
+주택, 오피스텔, 그 외의 부동산 매매 시
   <br>
 발생하는 취득세를 계산하는 계산기
 
@@ -22,23 +22,30 @@
 <br><br>
 <h2>주택 계산</h2>
 <hr>
-<img width="799" alt="주택 계산" src="https://user-images.githubusercontent.com/84225477/122682752-443f5400-d236-11eb-8471-73797d299a44.png">
+<img width="799" alt="주택 계산" src="https://user-images.githubusercontent.com/84225477/122682972-579eef00-d237-11eb-9cac-9c4b62eba951.png">
 
 
 <br><br>
 <h2>오피스텔 계산</h2>
 <hr>
-<img width="798" alt="오피스텔 계산" src="https://user-images.githubusercontent.com/84225477/122682756-499c9e80-d236-11eb-8a88-e9e18b978715.png">
+<img width="799" alt="오피스텔 계산" src="https://user-images.githubusercontent.com/84225477/122682994-700f0980-d237-11eb-96e1-7b49145d3106.png">
 
 
 <br><br>
 <h2>그 외 계산</h2>
 <hr>
-<img width="797" alt="그 외 계산" src="https://user-images.githubusercontent.com/84225477/122682763-528d7000-d236-11eb-8a83-88b0c20225a2.png">
+<img width="799" alt="그 외 계산" src="https://user-images.githubusercontent.com/84225477/122682998-769d8100-d237-11eb-949f-531d51871419.png">
+
+
+<br><br>
+<h2>계산 결과</h2>
+<hr>
+<img width="797" alt="계산 결과" src="https://user-images.githubusercontent.com/84225477/122683005-90d75f00-d237-11eb-8356-54a3d6116949.png">
 
 
 <br><br>
 <h2>조정대상지역</h2>
 <hr>
-<img width="798" alt="조정대상지역" src="https://user-images.githubusercontent.com/84225477/122682767-58835100-d236-11eb-94da-d29ca5233159.png">
+<img width="798" alt="조정대상지역" src="https://user-images.githubusercontent.com/84225477/122682999-7bfacb80-d237-11eb-97c4-6492743bdaa8.png">
+
 조정대상지역 보기 버튼 클릭 시 전국의 조정대상 지역을 보여주는 페이지를 띄움
