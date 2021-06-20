@@ -32,9 +32,9 @@
 
 
 <br><br>
-<h2>그 외 계산</h2>
+<h2>그 외 건물 계산</h2>
 <hr>
-<img width="799" alt="그 외 계산" src="https://user-images.githubusercontent.com/84225477/122682998-769d8100-d237-11eb-949f-531d51871419.png">
+<img width="799" alt="그 외 건물 계산" src="https://user-images.githubusercontent.com/84225477/122683205-b0bb5280-d238-11eb-8f64-fa94279588b0.png">
 
 
 <br><br>
