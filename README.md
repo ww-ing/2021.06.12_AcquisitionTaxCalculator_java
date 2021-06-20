@@ -12,5 +12,11 @@
   <br>
   2021.06.12 ~ 2021.06.20
   <br><br>
-<b>개발 환경<b> : OS : MacOS
+<b>개발 환경<b>  
+  <br>
+  OS : MacOS
+  <br>
+  개발툴 : Eclipse
+  <br>
+  사용언어 : Java
 
