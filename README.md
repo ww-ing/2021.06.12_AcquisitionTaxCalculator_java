@@ -9,10 +9,11 @@
 
 <br><br>
 <b>개발 기간<b>
-  <br>
+  <br><br>
   2021.06.12 ~ 2021.06.20
   <br><br>
-<b>개발 환경<b>  
+<b>개발 환경<b>
+  <br><br>
   OS : MacOS
   <br>
   개발툴 : Eclipse
