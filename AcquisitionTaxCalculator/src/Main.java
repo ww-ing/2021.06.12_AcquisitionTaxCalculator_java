@@ -247,7 +247,7 @@ public class Main extends JFrame {
 				}else if(!radio_adjusted_area.isSelected() && button[10].isSelected()
 						&& Amount > 100000000) {
 					
-					value=(int) (value*0.12);//취득세는 취득가액의 12%
+					value=(int) (Amount*0.12);//취득세는 취득가액의 12%
 				}
 				
 				
@@ -261,7 +261,7 @@ public class Main extends JFrame {
 				}else if(radio_adjusted_area.isSelected() && Amount > 100000000 && (button[9].isSelected() 
 						|| button[10].isSelected())) {
 					
-					value=(int) (value*0.12);//취득세는 취득가액의 12%
+					value=(int) (Amount*0.12);//취득세는 취득가액의 12%
 					
 				}
 				
